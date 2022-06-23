@@ -1,0 +1,89 @@
+body{
+    background: rgba(220, 199, 145, 0.788);
+}
+.ret2{
+    border: solid 5px red;
+    width: 50rem;
+    height: 39rem;
+    margin-left: 22rem;
+    margin-top: 4rem;
+    border-radius: 2rem;
+    border-color: rgb(244, 173, 19)  rgb(200, 104, 25) rgb(225, 176, 16) rgb(200, 104, 25);
+    box-shadow: inset 0 0 0.3rem gold, 0 0 1rem red;
+    background: rgba(244, 194, 127, 0.67);
+}
+.imga{
+    width: 21rem;
+    height: 16rem;
+    margin-left: 28rem;
+    margin-top: 2rem;
+
+}
+.t1{
+    font-size: 1.9rem;
+    margin-left: 5.4rem;
+    width: 19rem;
+    margin-top: -10rem;
+    font-family:    monospace;
+}
+.t3{
+    font-size: 2.2rem;
+    margin-left: 7rem;
+    width: 9em;
+    margin-top: -1.6rem;
+    font-family:    monospace;
+}
+.t2{
+    font-size: 0.9rem;
+    margin-left: 6.5rem;
+    width:19em;
+    text-align: center;
+    margin-top: -0.6rem;
+    font-family:    monospace;
+
+}
+
+.tas{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 3rem;
+}
+.i1{
+    width: 28rem;
+    height: 3rem;
+    margin-left: 3rem;
+    border: none;
+    border-radius: 6rem;
+    outline: none;
+}
+.geti{
+    border: none;
+    width:16rem;
+    height: 2.7rem;
+    margin-left: 33.5rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    border-radius: 10rem;
+    background: linear-gradient(267.72deg, #D8605B -0.89%, #F4C27F 112.29%);
+    cursor: pointer;
+    transition: 0.6s;
+}
+.geti:hover{
+    background: rgb(242, 159, 5);
+    color: white;
+    box-shadow: inset 0 0 1.3rem rgb(241, 235, 199), 0 0 0.5rem red;
+}
+.pe{
+    display: flex;
+    gap: 1rem;
+    margin-left: 4rem;
+    margin-top: -3.6rem
+}
+.re{
+    cursor:pointer;
+    color: red;
+}
+a{
+    text-decoration: none;
+}

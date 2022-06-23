@@ -1,0 +1,58 @@
+body{
+    background: rgba(220, 199, 145, 0.788);
+}
+.ret1{
+    border: solid 5px red;
+    width: 50rem;
+    height: 39rem;
+    margin-left: 22rem;
+    margin-top: 4rem;
+    border-radius: 2rem;
+    border-color: rgb(244, 173, 19)  rgb(200, 104, 25) rgb(225, 176, 16) rgb(200, 104, 25);
+    box-shadow: inset 0 0 0.3rem gold, 0 0 1rem red;
+    background: rgba(244, 194, 127, 0.67);
+}
+.imga{
+    width: 30rem;
+    height: 16rem;
+    margin-left: 10rem;
+    margin-top: 1.5rem;
+}
+.t1{
+    font-size: 1.7rem;
+    margin-left: 20rem;
+    width: 14rem;
+    font-family:    monospace;
+}
+.t3{
+    font-size: 3rem;
+    margin-left: 15rem;
+    width: 16em;
+    margin-top: -1.9rem;
+    font-family:    monospace;
+}
+.t2{
+    font-size: 1.5rem;
+    margin-left: 7rem;
+    width: 26em;
+    text-align: center;
+    margin-top: -0.6rem;
+    font-family:    monospace;
+}
+.geti{
+    border: none;
+    width:16rem;
+    height: 2.7rem;
+    margin-left: 18.5rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    border-radius: 10rem;
+    background: linear-gradient(267.72deg, #D8605B -0.89%, #F4C27F 112.29%);
+    cursor: pointer;
+    transition: 0.6s;
+}
+.geti:hover{
+    background: rgb(242, 159, 5);
+    color: white;
+    box-shadow: inset 0 0 1.3rem rgb(241, 235, 199), 0 0 0.5rem red;
+}
